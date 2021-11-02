@@ -19,3 +19,11 @@ h1 img{
     height: 90px;
     
 }
+#result{
+background-color:aqua;
+}
+#result img{
+    height: 100px;
+    width: 100px;
+    radius:100px;
+}
