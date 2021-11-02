@@ -1,0 +1,21 @@
+body{
+    background-image: url(bg.jpg);
+    font-size: 30px;
+    color: white;
+}
+img{
+    width: 200px;
+}
+b{
+    color:aqua;
+}
+.text_images_and_result{
+    background-color: rgb(4, 55, 59);
+    width: 450px;
+    box-shadow: 10px 10px 100px yellow;
+}
+h1 img{
+    width: 100px;
+    height: 90px;
+    
+}
